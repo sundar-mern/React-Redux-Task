@@ -1,4 +1,4 @@
 # React-Redux-Task
 
 
-DEPLOYMENT LINK :
+DEPLOYMENT LINK :  https://spectacular-halva-e5b89d.netlify.app/
